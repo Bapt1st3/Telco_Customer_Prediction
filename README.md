@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Lancez cette commande une seule fois dans votre terminal :
 
 ```bash
-nbstripout --install
+python -m nbstripout --install
 ```
 
 
