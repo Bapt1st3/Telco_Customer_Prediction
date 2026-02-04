@@ -4,10 +4,10 @@
 Ce projet exploite un jeu de données de plus de **7 000 clients** d'une entreprise de télécommunications. L'objectif est de répondre aux deux problématiques demandées pour le projet de ML :
 
 1.  **Classification (Variable : `Churn`)** : Identifier les clients susceptibles de quitter l'opérateur.
-2.  **Régression**:
+2.  **Régression**: variable Total charges
 
 ---
-
+Lien du dataset :  https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 ## Installation et Configuration du Groupe
 
 Pour garantir que le code fonctionne chez tout le monde et éviter les **conflits de fusion Git** sur les fichiers Notebook (.ipynb), merci de suivre rigoureusement cette procédure.
