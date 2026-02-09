@@ -29,6 +29,9 @@ Lancez cette commande une seule fois dans votre terminal :
 ```bash
 python -m nbstripout --install
 ```
+### Analyse des résultats et interprétation: 
+
+Pour toutes interprétations et analyses de resultats consultez le pdf [compte_rendu.pdf](./docs/compte_rendu.pdf)
 
 
 ### Membres du groupe
